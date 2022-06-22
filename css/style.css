@@ -10,6 +10,8 @@ body{
     height: 80px;
     max-height: 100px;
     background-color: #1a242e;
+    position: fixed;
+    z-index:1;
 }
 .logo{
     width: 130px;
